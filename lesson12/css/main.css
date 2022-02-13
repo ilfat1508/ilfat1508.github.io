@@ -1,0 +1,30 @@
+section {
+  background-color: #fff;
+}
+section.hover {
+  color: #fff;
+}
+.header {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 20px;
+}
+.header span {
+  display: block;
+  margin-left: 5px;
+}
+.header:hover {
+  cursor: pointer;
+}
+.blg {
+  font-style: 300px;
+  text-transform: uppercase;
+  line-height: 1.5;
+}
+.header {
+  font-style: 15px;
+  text-transform: uppercase;
+  line-height: 1.5;
+  background-color: #fff;
+  color: #0f0f0f;
+}

@@ -1,0 +1,27 @@
+body {
+  text-align: center;
+}
+
+.header {
+  margin-top: 2%;
+  height: 240px;
+  width: 96%;
+  background-color: yellow;
+  display: inline-block;
+}
+.menu {
+  margin-top: 20px;
+  width: 30%;
+  height: 500px;
+  background-color: red;
+  display: inline-block;
+  margin-right: 20px;
+}
+.content {
+  margin-top: 20px;
+  width: 65%;
+  height: 500px;
+  background-color: blue;
+  display: inline-block;
+  margin-left: -4px;
+}
